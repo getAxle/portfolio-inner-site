@@ -16,14 +16,14 @@ const About: React.FC<AboutProps> = (props) => {
             <br />
             <div className="text-block">
                 <p>
-                    I'm a software engineer currently working at a Stealth Startup! In May
+                    I'm a software engineer currently working at a Stealth Startup! In September 
                     of 2024 I entered Western University for Computer Science, and the Ivey School of business for Business Administration!.
                 </p>
                 <br />
                 <p>
                     Thank you for taking the time to check out my portfolio. I
                     really hope you enjoy exploring it as much as I enjoyed
-                    building it. If you have any questions or comments, feel
+                    working on it. If you have any questions or comments, feel
                     free to contact me using{' '}
                     <Link to="/contact">this form</Link> or shoot me an email at{' '}
                     <a href="mailto:saihajlaw@gmail.com">
@@ -148,8 +148,8 @@ const About: React.FC<AboutProps> = (props) => {
                     them. You can reach me through the{' '}
                     <Link to="/contact">contact page</Link> or shoot me an email
                     at{' '}
-                    <a href="mailto:henryheffernan@gmail.com">
-                        henryheffernan@gmail.com
+                    <a href="mailto:saihajlaw@gmail.com">
+                        saihajlaw@gmail.com
                     </a>
                 </p>
             </div>
